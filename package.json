@@ -1,0 +1,39 @@
+{
+  "name": "marslight-mirage",
+  "version": "1.0.0",
+  "description": "Explore Mirage with a comprehensive tool for Mirage exploration and activities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finestduets22/marslight-mirage"
+  },
+  "author": "finestduets22",
+  "license": "MIT",
+  "dependencies": {
+    "marslight-mirage": "1.0.0",
+    "marslight-mirage-use": "1.0.0",
+    "validator": "1.0.0",
+    "mysql": "1.0.0",
+    "sinon": "1.0.0",
+    "bluebird": "1.0.0",
+    "lodash": "1.0.0",
+    "ejs": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "enzyme": "1.0.0",
+    "xml2js": "1.0.0",
+    "body-parser": "1.0.0",
+    "mongoose": "1.0.0",
+    "jest": "1.0.0",
+    "underscore": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "axios": "1.0.0",
+    "async": "1.0.0",
+    "debug": "1.0.0",
+    "dotenv": "1.0.0",
+    "eslint": "1.0.0",
+    "node-sass": "1.0.0"
+  }
+}
